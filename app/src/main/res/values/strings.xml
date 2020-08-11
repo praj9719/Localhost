@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">localhost</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_filter">Filter</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_host">Host</string>
+    <string name="menu_logout">Logout</string>
+
+    <array name="Category">
+        <item>Grocery</item>
+        <item>Electronics appliances</item>
+        <item>Cloths</item>
+        <item>Furniture</item>
+        <item>Cosmetics</item>
+        <item>Gym</item>
+        <item>Medical</item>
+        <item>Automobile</item>
+        <item>Parking</item>
+        <item>Books</item>
+        <item>Hotel</item>
+    </array>
+    <array name="Category2">
+        <item>All</item>
+        <item>Grocery</item>
+        <item>Electronics appliances</item>
+        <item>Cloths</item>
+        <item>Furniture</item>
+        <item>Cosmetics</item>
+        <item>Gym</item>
+        <item>Medical</item>
+        <item>Automobile</item>
+        <item>Parking</item>
+        <item>Books</item>
+        <item>Hotel</item>
+    </array>
+    <array name="Distance">
+        <item>Near by</item>
+        <item>Less than 2 km</item>
+        <item>Less than 5 km</item>
+        <item>Less than 10 km</item>
+    </array>
+</resources>
